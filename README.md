@@ -38,14 +38,14 @@ Berikut adalah rekam jejak materi yang telah dipelajari beserta tautan ke *noteb
 
 | Pertemuan | Topik Bahasan | Link Notebook |
 | :---: | :--- | :--- |
-| 1 | Pengantar Data Science & Dasar Python | [Pertemuan_1_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan_1_Greyfikal_Apriyuda_250401020064.ipynb) |
-| 2 | Eksplorasi Data (EDA) & Filter Kondisional | [Pertemuan_2_Greyfikal Apriyuda_250401020064.ipynb](./Pertemuan_2_Greyfikal Apriyuda_250401020064.ipynb) |
-| 2 | Eksplorasi Data (EDA) & Filter Kondisional | [Pertemuan_2_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan_2_Greyfikal_Apriyuda_250401020064.ipynb) |
-| 3 | Data Cleaning, Imputasi & Handling Outlier | [Pertemuan_3_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan_3_Greyfikal_Apriyuda_250401020064.ipynb) |
-| 4 | Statistik Deskriptif & Analisis Korelasi | [Pertemuan_4_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan_4_Greyfikal_Apriyuda_250401020064.ipynb) |
-| 5 | Visualisasi Data Interaktif & Layout Dashboard | [Pertemuan_5_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan_5_Greyfikal_Apriyuda_250401020064.ipynb) |
-| 6 | Preprocessing, Encoding & Scaling Data | [Pertemuan_6_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan_6_Greyfikal_Apriyuda_250401020064.ipynb) |
-| 7 | Regresi Linear, Prediksi & Evaluasi Model | [Pertemuan_7_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan_7_Greyfikal_Apriyuda_250401020064.ipynb) |
+| 1 | Pengantar Data Science & Dasar Python | [Pertemuan1_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan1_Greyfikal_Apriyuda_250401020064.ipynb) |
+| 2 | Eksplorasi Data (EDA) & Filter Kondisional | [Pertemuan2_Greyfikal Apriyuda_250401020064.ipynb](./Pertemuan2_Greyfikal Apriyuda_250401020064.ipynb) |
+| 2 | Eksplorasi Data (EDA) & Filter Kondisional | [Pertemuan2_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan2_Greyfikal_Apriyuda_250401020064.ipynb) |
+| 3 | Data Cleaning, Imputasi & Handling Outlier | [Pertemuan3_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan3_Greyfikal_Apriyuda_250401020064.ipynb) |
+| 4 | Statistik Deskriptif & Analisis Korelasi | [Pertemuan4_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan4_Greyfikal_Apriyuda_250401020064.ipynb) |
+| 5 | Visualisasi Data Interaktif & Layout Dashboard | [Pertemuan5_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan5_Greyfikal_Apriyuda_250401020064.ipynb) |
+| 6 | Preprocessing, Encoding & Scaling Data | [Pertemuan6_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan6_Greyfikal_Apriyuda_250401020064.ipynb) |
+| 7 | Regresi Linear, Prediksi & Evaluasi Model | [Pertemuan7_Greyfikal_Apriyuda_250401020064.ipynb](./Pertemuan7_Greyfikal_Apriyuda_250401020064.ipynb) |
 
 ---
 
